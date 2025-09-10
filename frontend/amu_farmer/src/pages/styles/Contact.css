@@ -1,0 +1,18 @@
+.contact {
+  padding: 2rem;
+}
+
+.contact h1 {
+  color: #145374;
+  margin-bottom: 1rem;
+}
+
+.contact ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.contact li {
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+}

@@ -1,0 +1,20 @@
+.compliance h1 {
+  color: #145374;
+  margin-bottom: 1rem;
+}
+
+.compliance table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.compliance th, .compliance td {
+  padding: 0.8rem;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.compliance th {
+  background: #2E86AB;
+  color: white;
+}

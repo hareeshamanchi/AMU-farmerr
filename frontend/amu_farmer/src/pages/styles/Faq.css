@@ -1,0 +1,22 @@
+.faqs {
+  padding: 2rem;
+}
+
+.faqs h1 {
+  color: #145374;
+  margin-bottom: 2rem;
+}
+
+.faq-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.faq-card h3 {
+  color: #2E86AB;
+}
+
+.faq-card p {
+  color: #333;
+}

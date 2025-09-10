@@ -1,0 +1,24 @@
+.prescription h1 {
+  color: #145374;
+  margin-bottom: 1rem;
+}
+
+.prescription form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 500px;
+}
+
+.prescription input {
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  outline: none;
+  transition: 0.3s;
+}
+
+.prescription input:focus {
+  border-color: #2E86AB;
+  box-shadow: 0 0 5px rgba(46,134,171,0.5);
+}

@@ -1,0 +1,18 @@
+.chart-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+  flex: 1 1 500px;
+  transition: 0.3s;
+}
+
+.chart-card h3 {
+  color: #145374;
+  margin-bottom: 1.5rem;
+}
+
+.chart-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
